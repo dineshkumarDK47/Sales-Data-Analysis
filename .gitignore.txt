@@ -1,0 +1,7 @@
+# .gitignore for Power BI projects
+
+*.pbix
+/Data/
+/Transform/
+/Files/
+/Visualizations/
